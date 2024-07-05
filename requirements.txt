@@ -7,10 +7,10 @@ opencv-python-headless==4.6.0.66
 #opencv-python==4.6.0.66
 Pillow==10.1.0
 ######
-numpy==1.21.6
-keras==2.8.0
+####numpy==1.21.6
+#####keras==2.8.0
 ####Pillow==9.2.0
-tensorflow==2.8.0
+#####tensorflow==2.8.0
 
 
 # yolov5
