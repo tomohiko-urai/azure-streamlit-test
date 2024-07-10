@@ -1,6 +1,6 @@
 
 #-*- coding:utf-8 -*-
-import model as shinemuscat_chk 
+#####import model as shinemuscat_chk 
 import sys, os
 from PIL import Image
 import numpy as np
